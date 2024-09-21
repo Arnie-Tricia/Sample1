@@ -8,8 +8,12 @@ hello po
 hghgkgkgkg
 
 
+<<<<<<< HEAD
 
 
 
 
 kay git
+=======
+kay github
+>>>>>>> 1941e395996ad753336da48aa2db9a99804fe59b
